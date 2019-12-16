@@ -9,3 +9,5 @@ _TODO_
 If this is a new template:
 
  - **Link to application or project’s homepage**: _TODO_
+
+.gitignore
